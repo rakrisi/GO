@@ -36,4 +36,5 @@ func main() {
 		fmt.Println("blank range", value)
 	}
 
+
 }
